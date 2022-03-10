@@ -3,7 +3,7 @@
 ## Some things about me:
 
 - I'm avid outdoorsman: rock climbing 🧗 , hiking (PCT 2015) 🏔️ , camping 🏕️ - you name it!
-- My biggest hobby is programming 💻 and building lots of small, limited-purpose projects
+- My biggest hobby is programming 💻 and building programs that simplify or automate workflows. If you have a workflow that you'd like to automate - send me an email!
 - I enjoy cooking 🍳 and foods such as ginger beer, root beer, and ice cream!
 - I've been to Turkey <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" /> twice (so far) and enjoyed it so much that I'm trying to learn Turkish (Türkçe) & share the culture with others
 
