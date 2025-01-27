@@ -6,7 +6,7 @@
 - My biggest hobby is programming 💻 and building programs that simplify or automate workflows. If you have a common, tedious workflow that you'd like to automate - send me an email!
 - I dabble a bit in 3D printing - mostly functional printing (adapters, containers, and other small solutions for around the house)
 - I enjoy cooking 🍳 and foods such as ginger beer, root beer, and ice cream!
-- I've been to Turkey <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" /> three times (so far) and enjoyed it so much that I'm trying to learn Turkish (Türkçe) & share the culture with others
+- I've been to Turkey <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" /> four times (so far) and enjoyed it so much that I'm trying to learn Turkish (Türkçe) & share the culture with others
 
 ## Some of my biggest & most popular projects:
 
