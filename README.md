@@ -11,7 +11,7 @@
 ## Some of my biggest & most popular projects:
 
 - 📅 [Bulk Edit Calendar Events](http://bulkeditcalendarevents.com) - a desktop program for editing Google Calendar events in bulk
-- <img width="26px" src="https://icon-icons.com/icons2/1195/PNG/96/1490889653-reddit_82537.png" /> [MountainProject](https://github.com/derekantrican/MountainProject) - an HTML scraper and reddit bot to link [MountainProject.com](https://mountainproject.com) and various climbing subreddits, replying automatically to posts with climbing information
+- <img width="26px" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" /> [MountainProject](https://github.com/derekantrican/MountainProject) - an HTML scraper and reddit bot to link [MountainProject.com](https://mountainproject.com) and various climbing subreddits, replying automatically to posts with climbing information
 - <img width="26px" src="https://trevorfox.com/wp-content/uploads/2017/01/google-apps-script-1-e1485783800848.png" /> [GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - a script for syncing ics/ical calendars to Google Calendar faster than the 12 hour cadence provided natively by Google Calendar
 
 
