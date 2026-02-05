@@ -17,6 +17,6 @@
 
 ---
 
-![derekantrican's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekantrican&count_private=true&show_icons=true&theme=dark)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=derekantrican&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/derekantrican)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekantrican&hide=smalltalk,cpp&langs_count=8&layout=compact&theme=dark)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=derekantrican&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=smalltalk%2Ccpp&langs_count=8)](https://github.com/derekantrican)
